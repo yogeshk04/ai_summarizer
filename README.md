@@ -21,4 +21,13 @@ npm run dev
 ```
 
 Need to install
+
+ ```
  npm i react-redux
+ ```
+Deploy application on netlify https://www.netlify.com/
+ ```
+ npm run build 
+ ```
+
+ Drag and drop dist folder into your netlify deploy section
