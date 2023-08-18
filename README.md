@@ -19,3 +19,6 @@ npx tailwindcss init -p
 
 npm run dev
 ```
+
+Need to install
+ npm i react-redux
